@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Tailwind UI](https://img.shields.io/badge/-Tailwind%20UI-05122A?style=flat&logo=tailwind-ui)&nbsp;
-![Ant Design][](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=ant-design)&nbsp;
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=ant-design)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
