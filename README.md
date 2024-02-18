@@ -39,7 +39,11 @@
 
 ---
 
+### 📊 &nbsp;LeetCode Stats
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/m-istighfar?theme=dark&font=IBM%20Plex%20Sans&ext=heatmap)
+
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
