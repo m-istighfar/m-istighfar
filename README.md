@@ -42,6 +42,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="mailto:istighfar.amal@gmail.com"><img src="https://img.shields.io/badge/-istighfar.amal%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/m-istighfar/"><img src="https://img.shields.io/badge/-M%20Istighfar%20Amal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/m.istighfar_"><img src="https://img.shields.io/badge/-@m.istighfar__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
