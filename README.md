@@ -32,6 +32,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/m-istighfar?theme=dark&font=IBM%20Plex%20Sans&ext=heatmap)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
