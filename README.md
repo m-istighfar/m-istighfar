@@ -11,26 +11,31 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=expressjs)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=sqlalchemy)&nbsp;
-![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=ant-design)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+### Backend
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+- ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=expressjs)
+- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+- ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+- ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
+- ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=sqlalchemy)
+- ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)
+- ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+
+### Frontend
+- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
+- ![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=ant-design)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+
+### Others
+- ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/m-istighfar?theme=dark&font=IBM%20Plex%20Sans&ext=heatmap)
 
