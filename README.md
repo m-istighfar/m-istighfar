@@ -46,21 +46,9 @@
 ---
 
 ### 📈 &nbsp;GitHub Stats
-<div align="center">
-  <a href="https://github.com/m-istighfar">
-    <img src="https://github-readme-stats.vercel.app/api?username=m-istighfar&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="m-istighfar's Stats" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/m-istighfar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-istighfar&theme=dark&hide_border=true" alt="m-istighfar's Streak" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/m-istighfar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-istighfar&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="m-istighfar's Top Languages" />
-  </a>
-</div>
+![m-istighfar's Stats](https://github-readme-stats.vercel.app/api?username=m-istighfar&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![m-istighfar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-istighfar&theme=dark&hide_border=true)
+![m-istighfar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-istighfar&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
