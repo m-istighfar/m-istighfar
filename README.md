@@ -45,6 +45,11 @@
 
 ---
 
+### 📈 &nbsp;GitHub Stat
+![m-istighfar's Stats](https://github-readme-stats.vercel.app/api?username=m-istighfar&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+---
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
