@@ -1,9 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm graduating in Valuer from Politeknik Keuangan Negara STAN in 2021.\
-🌱 &nbsp;I'm on track for learning more about Software Engineering.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+I'm a software engineer with an entrepreneurial edge, adept at blending technical skill with business insight. Leading a venture that processed 500,000 orders within two years has sharpened my abilities in problem-solving and user engagement. I excel in building scalable backend systems and user-centric full-stack applications. My focus lies in creating innovative solutions that enhance user experience and operational effectiveness, with an aim to pioneer new standards in software development.
 
 ---
 
