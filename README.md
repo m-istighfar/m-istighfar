@@ -46,9 +46,13 @@
 ---
 
 ### 📈 &nbsp;GitHub Stats
-![m-istighfar's Stats](https://github-readme-stats.vercel.app/api?username=m-istighfar&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![m-istighfar's Stats](https://github-readme-stats.vercel.app/api?username=m-istighfar&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
 ![m-istighfar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-istighfar&theme=dark&hide_border=true)
+
 ![m-istighfar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-istighfar&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 
 
 
