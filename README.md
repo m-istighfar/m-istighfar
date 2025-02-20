@@ -26,6 +26,8 @@ I'm a software engineer with an entrepreneurial edge, adept at blending technica
 
 #### Frontend
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) &nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) &nbsp;
+![React Query](https://img.shields.io/badge/-React%20Query-05122A?style=flat&logo=react-query)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css) &nbsp;
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=ant-design) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) &nbsp;
